@@ -1382,7 +1382,7 @@ As Steve Krug once said, happy talk must die.
 </details>
 ```
 
-- [ ] A
+- [x] A
       ![A](images/Q84-1.jpg)
 - [ ] B
       ![B](images/Q84-2.jpg)
